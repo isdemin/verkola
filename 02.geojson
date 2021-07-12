@@ -1,0 +1,18 @@
+{"type":"FeatureCollection",
+    "features":[
+        {"type":"Feature",
+            "properties":{
+                "name":"TRON-02",
+                "serial":"TRON002",
+                "bearing":0,
+                "color":"green",
+                "size":15,
+                "image":"img/unit_map3.png",
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-50.06542968749966,-23.749149728383717]
+            }
+        }
+    ]
+}
